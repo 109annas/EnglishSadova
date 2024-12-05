@@ -21,7 +21,7 @@ $(document).ready(function () {
             { word: "wallet", translation: "гаманець" },
             { word: "freedom", translation: "свобода" },
             { word: "childhood", translation: "дитинство" },
-            { word: "flour", translation: "мука" },
+            { word: "flour", translation: "борошно" },
             { word: "gentleman", translation: "джентльмен" },
         ],
         hard: [
@@ -29,7 +29,7 @@ $(document).ready(function () {
             { word: "complaint", translation: "скарга" },
             { word: "attitude", translation: "ставлення" },
             { word: "permission", translation: "дозвіл" },
-            { word: "guard", translation: "кіт" },
+            { word: "guard", translation: "охоронець" },
             { word: "influence", translation: "вплив" },
             { word: "impression", translation: "враження" },
             { word: "murder", translation: "вбивство" },
